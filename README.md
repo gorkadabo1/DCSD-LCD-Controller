@@ -164,9 +164,9 @@ The project uses finite state machines (FSM) for each module:
 
 ## License
 
-This project was developed for educational purposes at the University of the Basque Country (UPV/EHU).
+This project was developed for educational purposes at the University of the Basque Country (EHU).
 
 ## Acknowledgments
 
-- Department of Computer Architecture and Technology, Faculty of Informatics (UPV/EHU)
+- Department of Computer Architecture and Technology, Faculty of Informatics (EHU)
 - Course: Digital Systems Design and Construction (DCSD), 2023-2024
