@@ -2,7 +2,6 @@
 
 A digital system designed to control an LT24 LCD display using an Intel DE1-SoC FPGA board. This project implements drawing primitives, screen clearing, UART image transfer, and a simple animation system.
 
-**Grade: 9.5/10** (Highest in class) | University of the Basque Country (EHU) | November 2023
 
 ## Overview
 
