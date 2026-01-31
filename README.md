@@ -57,7 +57,8 @@ The system is divided into five interconnected modules:
 DCSD-LCD-Controller/
 ├── README.md
 ├── docs/
-│   └── MEMORIA_FINAL_GRUPO_06.pdf
+│   └── UP _ UC_Diagrams.pdf
+│   └── fpga_lcd_controller_report.pdf
 ├── src/
 │   ├── LCD_CTRL.vhd
 │   ├── LCD_DRAWING.vhd
